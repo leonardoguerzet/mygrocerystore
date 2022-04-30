@@ -2,11 +2,13 @@
 
 1. Sign in screen
 
-![grocery1](https://user-images.githubusercontent.com/101679073/166117870-a9d2a34a-92ad-468e-bfed-23c508310d60.png)
+![grocery1](https://user-images.githubusercontent.com/101679073/166118246-87a713d9-58cd-48a4-a16e-0496e68e135d.png)
+
 
 2. Sign up screen
 
-![grocery_signup](https://user-images.githubusercontent.com/101679073/166117898-d477ee21-4c10-4e6c-835f-65fc715df900.png)
+![grocery_signup](https://user-images.githubusercontent.com/101679073/166118157-f54c28f3-84e6-463c-b64d-816e352dacbf.png)
+
 
 3. Categories
 
